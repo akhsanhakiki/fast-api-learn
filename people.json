@@ -1,0 +1,64 @@
+{
+    "people" : [
+        {
+            "id": 1,
+            "name": "Luffy",
+            "age": 18,
+            "gender": "M"
+        },
+        {
+            "id": 2,
+            "name": "Zoro",
+            "age": 18,
+            "gender": "M"
+        },
+        {
+            "id": 3,
+            "name": "Nami",
+            "age": 18,
+            "gender": "F"
+        },
+        {
+            "id": 4,
+            "name": "Ussop",
+            "age": 18,
+            "gender": "M"
+        },
+        {
+            "id": 5,
+            "name": "Sanji",
+            "age": 18,
+            "gender": "M"
+        },
+        {
+            "id": 6,
+            "name": "Chopper",
+            "age": 15,
+            "gender": "M"
+        },
+        {
+            "id": 7,
+            "name": "Robin",
+            "age": 18,
+            "gender": "F"
+        },
+        {
+            "id": 8,
+            "name": "Franky",
+            "age": 18,
+            "gender": "M"
+        },
+        {
+            "id": 9,
+            "name": "Brook",
+            "age": 18,
+            "gender": "M"
+        },
+        {
+            "id": 10,
+            "name": "Jinbei",
+            "age": 18,
+            "gender": "M"
+        }
+    ]
+}
