@@ -2,8 +2,8 @@
     "people" : [
         {
             "id": 1,
-            "name": "M.D.Luffy",
-            "age": 18,
+            "name": "Luffy",
+            "age": 17,
             "gender": "M"
         },
         {
